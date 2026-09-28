@@ -4,9 +4,9 @@ Software Engineering student (ESPE, graduating Feb 2027) and indie game develope
 
 Currently a part-time developer at **Loopy Games**, working on dialogue and debate mechanics for a 2D mystery visual novel, and running my own indie studio, **Axobytes**.
 
-- 🌐 Portfolio: [caetanoflores.vercel.app](https://caetanoflores.vercel.app)
-- 🎮 Itch.io: [axobytes.itch.io](https://axobytes.itch.io)
-- 📄 CV: [caetanoflores.vercel.app/cv.html](https://caetanoflores.vercel.app/cv.html)
+- Portfolio: [caetanoflores.vercel.app](https://caetanoflores.vercel.app)
+- Itch.io: [axobytes.itch.io](https://axobytes.itch.io)
+- CV: [caetanoflores.vercel.app/cv.html](https://caetanoflores.vercel.app/cv.html)
 
 ---
 
@@ -32,4 +32,4 @@ Currently a part-time developer at **Loopy Games**, working on dialogue and deba
 
 ---
 
-📫 Reach me at **caetanoflores54@gmail.com**
+Reach me at **caetanoflores54@gmail.com**

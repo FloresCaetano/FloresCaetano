@@ -4,9 +4,9 @@ Software Engineering student (ESPE, graduating Feb 2027) and indie game develope
 
 Currently a part-time developer at **Loopy Games**, working on dialogue and debate mechanics for a 2D mystery visual novel, and running my own indie studio, **Axobytes**.
 
-- Portfolio: [caetanoflores.vercel.app](https://caetanoflores.vercel.app)
-- Itch.io: [axobytes.itch.io](https://axobytes.itch.io)
-- CV: [caetanoflores.vercel.app/cv.html](https://caetanoflores.vercel.app/cv.html)
+- 🌐 Portfolio: [caetanoflores.vercel.app](https://caetanoflores.vercel.app)
+- 🎮 Itch.io: [axobytes.itch.io](https://axobytes.itch.io)
+- 📄 CV: [caetanoflores.vercel.app/cv.html](https://caetanoflores.vercel.app/cv.html)
 
 ---
 
@@ -14,11 +14,11 @@ Currently a part-time developer at **Loopy Games**, working on dialogue and deba
 
 | Project | Engine | Role | Highlight |
 |---|---|---|---|
-| [The Face Collector](https://github.com/FloresCaetano/The-Flesh-Collector) | Godot 4 | Lead Developer & Director | Top 2 Horror / Top 1 Sound Design — Hawktobers Jam 2024 |
-| [Emotionless](https://github.com/FloresCaetano/GGJ) | Godot 4 | Creator, Writer & Solo Developer | Visual novel — dialogue-driven mask mechanic tied to a live color/mood shader |
-| [AeroFactory](https://github.com/FloresCaetano/Project-RogueFactory) | Godot 4 | Creator & Lead Developer | 3D logistics/automation sandbox with self-connecting conveyor belts |
-| [Hastarcus](https://github.com/FloresCaetano/PruebaTecnica) | Godot 4 | Creator & Systems Architect (solo) | Technical demo built for a hiring process — FSM + Behavior Trees combat AI |
-| [CodeFactory](https://github.com/FloresCaetano/FactoCode) | Godot 4 | Creator & Lead Developer | Player-programmable drones via a custom transpiled mini-language |
+| [The Face Collector](https://github.com/FloresCaetano/The-Face-Collector) | Godot 4 | Lead Developer & Director | Top 2 Horror / Top 1 Sound Design — Hawktobers Jam 2024 |
+| [Emotionless](https://github.com/FloresCaetano/Emotionless) | Godot 4 | Creator, Writer & Solo Developer | Visual novel — dialogue-driven mask mechanic tied to a live color/mood shader |
+| [AeroFactory](https://github.com/FloresCaetano/AeroFactory) | Godot 4 | Creator & Lead Developer | 3D logistics/automation sandbox with self-connecting conveyor belts |
+| [Hastarcus](https://github.com/FloresCaetano/Hastarcus) | Godot 4 | Creator & Systems Architect (solo) | Technical demo built for a hiring process — FSM + Behavior Trees combat AI |
+| [CodeFactory](https://github.com/FloresCaetano/CodeFactory) | Godot 4 | Creator & Lead Developer | Player-programmable drones via a custom transpiled mini-language |
 | [Campus Carnage](https://github.com/FloresCaetano/CampusCarnage) | Godot 4 | Creator & Solo Developer | First-person action prototype with FSM enemy AI |
 
 ---
@@ -32,4 +32,4 @@ Currently a part-time developer at **Loopy Games**, working on dialogue and deba
 
 ---
 
-Reach me at **caetanoflores54@gmail.com**
+📫 Reach me at **caetanoflores54@gmail.com**

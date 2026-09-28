@@ -15,7 +15,7 @@ Currently a part-time developer at **Loopy Games**, working on dialogue and deba
 | Project | Engine | Role | Highlight |
 |---|---|---|---|
 | [The Face Collector](https://github.com/FloresCaetano/The-Flesh-Collector) | Godot 4 | Lead Developer & Director | Top 2 Horror / Top 1 Sound Design — Hawktobers Jam 2024 |
-| [When The Rooster Crowns](https://github.com/FloresCaetano/GGJ) | Godot 4 | Director, Lead Programmer & Co-Designer (12-person team) | Semifinalist — Global Game Jam+ São Paulo 2026 |
+| [Emotionless](https://github.com/FloresCaetano/GGJ) | Godot 4 | Creator, Writer & Solo Developer | Visual novel — dialogue-driven mask mechanic tied to a live color/mood shader |
 | [AeroFactory](https://github.com/FloresCaetano/Project-RogueFactory) | Godot 4 | Creator & Lead Developer | 3D logistics/automation sandbox with self-connecting conveyor belts |
 | [Hastarcus](https://github.com/FloresCaetano/PruebaTecnica) | Godot 4 | Creator & Systems Architect (solo) | Technical demo built for a hiring process — FSM + Behavior Trees combat AI |
 | [CodeFactory](https://github.com/FloresCaetano/FactoCode) | Godot 4 | Creator & Lead Developer | Player-programmable drones via a custom transpiled mini-language |
